@@ -1,0 +1,13 @@
+D:\C#\ProjectOOP\ProjectOOP\bin\Debug\ProjectOOP.exe.config
+D:\C#\ProjectOOP\ProjectOOP\bin\Debug\ProjectOOP.exe
+D:\C#\ProjectOOP\ProjectOOP\bin\Debug\ProjectOOP.pdb
+D:\C#\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.csproj.AssemblyReference.cache
+D:\C#\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.Form1.resources
+D:\C#\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.Form2.resources
+D:\C#\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.Properties.Resources.resources
+D:\C#\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.csproj.GenerateResource.cache
+D:\C#\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.csproj.CoreCompileInputs.cache
+D:\C#\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.exe
+D:\C#\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.pdb
+D:\C#\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.Form3.resources
+D:\C#\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.Form4.resources
